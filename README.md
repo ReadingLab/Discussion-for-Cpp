@@ -1,4 +1,4 @@
 # Discussion for C++
-中文讨论区
+C++中文讨论区
 
 [传送门](https://github.com/ReadingLab/Discussion-for-Cpp/issues)
