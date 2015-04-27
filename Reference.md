@@ -21,3 +21,8 @@ A curated list of awesome C++ answer from StackOverflow etc. Inspired by awesome
 *lvalue and rvalue, etc.*
 
 - [What are rvalues, lvalues, xvalues, glvalues, and prvalues?](http://stackoverflow.com/questions/3601602)
+
+## Iterator
+*iterator and algorithm, etc.*
+
+- [Iterator invalidation rules](http://stackoverflow.com/questions/6438086/iterator-invalidation-rules)
